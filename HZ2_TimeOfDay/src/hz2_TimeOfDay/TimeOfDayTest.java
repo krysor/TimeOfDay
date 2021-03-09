@@ -13,7 +13,6 @@ class TimeOfDayTest {
 		timeofday.setMinuten(45);
 		assertEquals(15, timeofday.getUren());
 		assertEquals(45, timeofday.getMinuten());
-		
 	}
 
 }
